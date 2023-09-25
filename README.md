@@ -1,6 +1,6 @@
 # Olá 🖐️
 
-Olá, meu nome é Wallace Pereira da Silva, e sou desenvolvedor **Back-End**. Estou estudando programação desde 2023. Meu interesse pela área começou em 2021, quando me aprofundei e amadureci melhor esse novo objetivo. Atualmente, estou fazendo uma transição de carreira da área de Produção Cultural para o Desenvolvimento de Software. Sou aluno de Desenvolvimento de Software Back-End na [Cubos Academy](https://cubos.academy/), um projeto em parceria com o iFood e [Potência Tech](https://potenciatech.com.br/), no qual fui um dos 1000 contemplados entre mais de 30 mil inscrições. Estou estudando JavaScript, mas estou aberto a aprender outras linguagens de programação.
+Meu nome é Wallace Pereira da Silva, e sou desenvolvedor **Back-End**. Estou estudando programação desde 2023. Meu interesse pela área começou em 2021, quando me aprofundei e amadureci melhor esse novo objetivo. Atualmente, estou fazendo uma transição de carreira da área de Produção Cultural para o Desenvolvimento de Software. Sou aluno de Desenvolvimento de Software Back-End na [Cubos Academy](https://cubos.academy/), um projeto em parceria com o iFood e [Potência Tech](https://potenciatech.com.br/), no qual fui um dos 1000 contemplados entre mais de 30 mil inscrições. Estou estudando JavaScript, mas estou aberto a aprender outras linguagens de programação.
 
 
 ## 👉 Para me encontrar:
@@ -16,4 +16,7 @@ Olá, meu nome é Wallace Pereira da Silva, e sou desenvolvedor **Back-End**. Es
 
 
 > *"Escrever e executar deve aprofundar o significado das palavras, deve iluminar, transfixar e transformar."* - Bell Hooks
+
+
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=WallacePereiraS&theme=one_dark_pro&custom_title=Linguagens%20%Principais&bg_color=0D1017)
 
