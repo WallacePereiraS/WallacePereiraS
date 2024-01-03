@@ -19,5 +19,5 @@ Meu nome é Wallace Pereira da Silva, e sou desenvolvedor **Back-End**. Estou es
 > *"Escrever e executar deve aprofundar o significado das palavras, deve iluminar, transfixar e transformar."* - Bell Hooks
 
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=WallacePereiraS&theme=one_dark_pro&custom_title=Linguagens%20%Principais&bg_color=0D1017)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=WallacePereiraS&theme=dracula&custom_title=Linguagens%20%Principais&bg_color=0D1017)
 
