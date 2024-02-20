@@ -1,6 +1,6 @@
 # Olá 🖐️
 
-Meu nome é Wallace Pereira da Silva, e sou desenvolvedor **Back-End**. Estou estudando programação desde 2023. Meu interesse pela área começou em 2021, quando me aprofundei e amadureci melhor esse novo objetivo. Atualmente, estou fazendo uma transição de carreira da área de Produção Cultural para o Desenvolvimento de Software. Sou aluno de Desenvolvimento de Software Back-End na [Cubos Academy](https://cubos.academy/), um projeto em parceria com o iFood e [Potência Tech](https://potenciatech.com.br/), no qual fui um dos 1000 contemplados entre mais de 30 mil inscrições. Estou estudando JavaScript, mas estou aberto a aprender outras linguagens de programação.
+Meu nome é Wallace Pereira da Silva, e sou desenvolvedor **Back-End**. Estou estudando programação desde 2023. Meu interesse pela área começou em 2021, quando me aprofundei e amadureci melhor esse novo objetivo. Atualmente, estou fazendo uma transição de carreira da área de Produção Cultural para o Desenvolvimento de Software. Em novembro de 2023 me formei no Bootcamp de Desenvolvimento de Software Back-End na [Cubos Academy](https://cubos.academy/), um projeto em parceria com o iFood e [Potência Tech](https://potenciatech.com.br/), no qual fui um dos 1000 contemplados entre mais de 30 mil inscrições. Estou estudando JavaScript, mas sempre aberto a aprender novas tecnologias.
 
 
 ## 👉 Para me encontrar:
